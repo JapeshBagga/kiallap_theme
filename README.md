@@ -59,4 +59,4 @@ We believe we have covered everything you need to set up an All kind of website.
 - [Free Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
 - [Website Templates](https://colorlib.com/wp/templates/)
 - [Free WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
-# kiallap_theme
+
